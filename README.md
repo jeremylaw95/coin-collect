@@ -1,19 +1,15 @@
 # Game Hackathon
 
-For the next two days we are going to design and build our own game. It is an opportunity to cement what we've learnt about object oriented programming, as well as planning, ideating and MVP.
+We had two days to plan and build a game in JavaScript using Object Oriented Programming architecture. In a pair, we completed this project in week 5 of the School of Code bootcamp to practice hands on with JavaScript, OOP, classes and canvas.
 
-## Task 1 - Wed afternoon
+We really pushed ourselves and set a challenge to build an interactive coin collecting game. We faced issues with Canvas and OOP classes, but overcame them with a lot of debugging.
 
-Choose a game to recreate in code. Use disney ideation, and then break it down to the essence (MVP) and plan what classes you will need, and what state and behavior each class will need. The break each of the behaviors down to a level were you can start coding.
+# Play the game!
 
-## Task 2 - Wed Afternoon
+https://coin-collect.netlify.app/
 
-Put each of your classes into a trello board with a todo, doing and done column.
+## Run the game locally
 
-## Task 3 - Build Your MVP
+1. clone the repo.
 
-Get the simplest possible version of your game working.
-
-## Task 4 - Next steps
-
-Choose what your next steps are, what functionality would make the biggest impact. If you've used alert/prompt for your MVP. Display your game on the page either with the DOM or your new canvas games.
+2. copy the path of the HTML file and run it in your browser.
